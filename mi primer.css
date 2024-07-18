@@ -1,1 +1,51 @@
-HOla mundo nuevo
+.fondo {background-color: rgb(163, 141, 158);}
+h1 {
+    color: rgb(127, 212, 87);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 56px;
+    text-align: center;
+}
+
+.titulo3 {
+    color: rgb(127, 212, 87);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h2 {
+    color: black;
+}
+
+.lista1 {
+    color: rgb(15, 15, 15);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgb(231, 179, 101);
+    width: 20%;
+    height: 10%;
+    margin: auto;
+    text-align: justify;
+    border: 2px solid #bb4040;
+    border-radius: 12%;
+
+   
+
+}
+
+.Lista2 {
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    background-color: rgb(192, 202, 96);
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    text-align: center;
+    border: 3px solid #b65656;
+
+
+
+}
